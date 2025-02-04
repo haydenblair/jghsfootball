@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>JGHS Football '89-'90</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <h1>JGHS Football '89-'90</h1>
+  </header>
+
+  <main>
+    <!-- Container for the list of game cards -->
+    <div id="game-list" class="game-list-container">
+      <!-- Cards will be injected by script.js -->
+    </div>
+  </main>
+
+  <!-- Video Overlay (hidden by default) -->
+  <div id="video-overlay" class="video-overlay">
+    <div class="video-content">
+      <button id="close-overlay" class="close-btn">X</button>
+      <h2 id="video-title"></h2>
+
+      <!-- Iframe for YouTube video -->
+      <iframe
+        id="video-player"
+        width="100%"
+        height="450"
+        frameborder="0"
+        allowfullscreen
+      ></iframe>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
