@@ -90,7 +90,7 @@ const gameData = [
     year: 1990,
     date: "Oct 12, 1990",
     thumbnail: "images/9.jpg",
-    videoUrl: "https://www.youtube.com/embed/VIDEO_ID_2?rel=0"
+    videoUrl: "https://www.youtube.com/embed/kNNx9Pq-0Zk?rel=0"
   },
   {
     id: 10,
