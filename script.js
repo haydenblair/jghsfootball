@@ -30,7 +30,7 @@ const gameData = [
     year: 1990,
     date: "Aug 31, 1990",
     thumbnail: "images/3.jpg",
-    videoUrl: "https://www.youtube.com/embed/VIDEO_ID_2?rel=0"
+    videoUrl: "https://www.youtube.com/embed/fPSiDfDUw1E?rel=0"
   },
   {
     id: 4,
@@ -40,7 +40,7 @@ const gameData = [
     year: 1990,
     date: "Sep 7, 1990",
     thumbnail: "images/4.jpg",
-    videoUrl: "https://www.youtube.com/embed/VIDEO_ID_2?rel=0"
+    videoUrl: "https://www.youtube.com/embed/Zw1fQ0SHDQM?rel=0"
   },
   {
     id: 5,
@@ -60,7 +60,7 @@ const gameData = [
     year: 1990,
     date: "Sep 21, 1990",
     thumbnail: "images/6.jpg",
-    videoUrl: "https://www.youtube.com/embed/VIDEO_ID_2?rel=0"
+    videoUrl: "https://www.youtube.com/embed/Ecj3ehPJ6ts?rel=0"
   },
   {
     id: 7,
@@ -70,8 +70,9 @@ const gameData = [
     year: 1990,
     date: "Sep 28, 1990",
     thumbnail: "images/7.jpg",
-    videoUrl: "https://www.youtube.com/embed/VIDEO_ID_2?rel=0"
+    videoUrl: "https://www.youtube.com/embed/ka3LO5iy6TE?rel=0"
   },
+/*
   {
     id: 8,
     title: "John Glenn vs. Belding",
@@ -82,6 +83,7 @@ const gameData = [
     thumbnail: "images/8.jpg",
     videoUrl: "https://www.youtube.com/embed/VIDEO_ID_2?rel=0"
   },
+*/
   {
     id: 9,
     title: "John Glenn vs. Saginaw Buena Vista",
@@ -100,7 +102,7 @@ const gameData = [
     year: 1990,
     date: "Oct 26, 1990",
     thumbnail: "images/10.jpg",
-    videoUrl: "https://www.youtube.com/embed/VIDEO_ID_2?rel=0"
+    videoUrl: "https://www.youtube.com/embed/DCptjCEL7zU?rel=0"
   },
   {
     id: 11,
@@ -118,9 +120,9 @@ const gameData = [
     score: "1",
     result: "Win",
     year: 1990,
-    date: "Nov 3, 1990",
+    date: "Dec 5, 1990",
     thumbnail: "images/12.jpg",
-    videoUrl: "https://www.youtube.com/embed/VIDEO_ID_2?rel=0"
+    videoUrl: "https://www.youtube.com/embed/ZlLb3NY3iH0?rel=0"
   }
   // Add more games as needed
 ];
